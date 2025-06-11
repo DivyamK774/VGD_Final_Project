@@ -1,1 +1,2 @@
-# VGD_Final_Project
+# VGD Final Project: Ghost Rush
+This game, ghost rush, is about escaping a big haunted mansion while jumping on solid coffins. There is also a main enemy, the ghost, who follows you and trys to kill you. in ghost rush you will find a creepy haunted house with many coffins to add to the theme. Your character, a scared child with a flashlight is trying to escape this nightmare, while escaping a horrifying ghost.
